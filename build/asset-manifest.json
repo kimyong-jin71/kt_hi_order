@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kt_hi_order/static/css/main.7978b5e2.css",
+    "main.js": "/kt_hi_order/static/js/main.b226b15a.js",
+    "index.html": "/kt_hi_order/index.html",
+    "main.7978b5e2.css.map": "/kt_hi_order/static/css/main.7978b5e2.css.map",
+    "main.b226b15a.js.map": "/kt_hi_order/static/js/main.b226b15a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7978b5e2.css",
+    "static/js/main.b226b15a.js"
+  ]
+}
